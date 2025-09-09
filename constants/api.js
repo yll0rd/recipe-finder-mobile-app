@@ -1,0 +1,1 @@
+export const API_URL = "https://recipe-app-api-lksf.onrender.com/api";
